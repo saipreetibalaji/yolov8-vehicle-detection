@@ -136,12 +136,6 @@ results = model.train(
 
 ---
 
-## 📜 License
-
-MIT License — free to use, modify, and distribute.
-
----
-
 ## 🙋 Author
 
 **B Sai Preeti**  
