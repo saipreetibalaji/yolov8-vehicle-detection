@@ -1,0 +1,24 @@
+# Dataset (too large for GitHub)
+dataset/
+*.zip
+*.tar.gz
+
+# YOLOv8 run outputs (weights, plots)
+runs/
+
+# Kaggle credentials — NEVER commit these
+kaggle.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
